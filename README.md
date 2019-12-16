@@ -1,6 +1,6 @@
 # REACT:
 
-## *Run the React App*:
+## **Run the React App**:
 
 ### cd my-app
 ### npm start
