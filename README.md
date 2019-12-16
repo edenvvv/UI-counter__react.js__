@@ -1,5 +1,10 @@
 # REACT:
 
+## *Run the React App*:
+
+### cd my-app
+### npm start
+
 ## Install react:
 
 ### npm install -g create-react-app
@@ -7,12 +12,6 @@
 ## create react app on the local computer:
 
 ### npx create-react-app my-app
-
-## Run the React App:
-
-### cd my-app
-
-### npm start
 
 # CSS:
 
